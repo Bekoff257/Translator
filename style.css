@@ -12,9 +12,8 @@ body{
   justify-content: center;
   flex-direction: column;
   padding: 0 10px;
-  /* min-height: 100vh; */
+  min-height: 100vh;
   background: #121214;
-  padding-bottom: 15px;
 }
 
 body .web-text h1{
@@ -28,12 +27,6 @@ body .web-text h1{
   background: #fff;
   border-radius: 7px;
   box-shadow: 0 10px 20px rgba(0,0,0,0.01);
-}
-
-.container .web-img{
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 .wrapper{
